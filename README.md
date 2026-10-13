@@ -1,22 +1,22 @@
 # URBAN GREEN Project Website
 
-A responsive static website for URBAN GREEN Project.
+A responsive static website concept for URBAN GREEN Project.
 
-## Current implementation
+## Design direction
 
-- Editorial construction-focused layout with a restrained forest-green and warm-neutral palette.
-- Responsive navigation and mobile layout.
-- Service descriptions written as project discussion areas rather than claims about a completed portfolio.
-- CSS architectural line illustration; no stock images are presented as company projects.
-- Accessible form labels, keyboard focus styles, and reduced-motion preference support.
-- Privacy notice explaining the current enquiry form behaviour.
+- Typography-led, editorial layout with an architectural publication feel rather than a standard row-of-cards construction template.
+- Restrained warm-paper, graphite, deep-green and oxide palette; strong type scale, ruled sections and asymmetrical composition.
+- No stock photography presented as company work, invented project gallery, fabricated testimonials, unsupported statistics or unverified credentials.
+- Responsive navigation, keyboard focus visibility, labelled form controls and mobile layout.
+- Enquiry form prepares an email draft locally; it does not send or store submissions on a server.
+- Privacy notice explains the current preview behaviour and the remaining launch requirement.
 
-## Important before public launch
+## Required before public launch
 
-This repository does not yet contain verified company contact details or a configured enquiry backend. The enquiry form currently opens a new email draft without a recipient. Confirm the official company email address and phone number, then configure the form to deliver enquiries reliably.
+The repository does not contain verified company contact details or a configured enquiry backend. The enquiry form currently opens an email draft without a recipient. Confirm the official company email and phone number, then configure and test a reliable enquiry route.
 
-Confirm that the service descriptions reflect the company's actual offerings. Add only company-approved project photography and verified project descriptions. Review the privacy notice and the actual data flow against applicable South African privacy requirements, including POPIA.
+The service categories and copy are draft discussion points and should be confirmed by the company. Add only company-approved project photography and verified project descriptions. Review the privacy notice against the real data flow and applicable South African privacy requirements, including POPIA.
 
-## Preview
+## Review and scope
 
-Open `index.html` locally in a browser. This change is on the `website-refinement-review` branch for review only; it has not been merged into `main` and no live website, hosting, DNS, or deployment settings were changed.
+Preview `index.html` locally in a browser. This work is on `website-refinement-review` for review only. It has not been merged into `main`; the live website, hosting, DNS and deployment settings have not been changed.
